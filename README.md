@@ -1,15 +1,15 @@
 <h1 align="center">Office 365 addins and web development with MERN</h1>
 <h3 align="center">A passionate FullStack Web developer from pakistan.</h3>
 
-- I have strong background in office add-ins [development and web development](,)
+- I have strong background in office add-ins development and web development [,](,)
 
 - database integration, external third party api **integration,**
 
-- My expertise In Reac js , Angular js , tailwind css [typescript , mui ,chakra ui , fluent ui, offic js](,)
+- My expertise In Reac js , Angular js , tailwind css typescript , mui ,chakra ui , fluent ui, offic js [,](,)
 
 - Node js , express js , sso , auth 2 , **graph api , cloud integration,**
 
-- and much more . **office 365 addins development**
+- and much more Like **office 365 addins development etc**
 
 - contact me on **shahazadumar.it@gmail.com**
 
