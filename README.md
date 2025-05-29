@@ -76,9 +76,9 @@ Here are some of the technologies and tools I work with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shahazad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahzadUmar-w&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shahazad's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Shahazad's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadUmar-w&layout=compact&theme=radical&hide_border=true" alt="Shahazad's Top Languages" />
 </p>
 
 <!-- Agar aap GitHub Streak Stats bhi add karna chahtay hain:
@@ -92,7 +92,7 @@ Here are some of the technologies and tools I work with:
 ## 📫 Get In Touch
 
 - 📧 Email: **shahazadumar.it@gmail.com**
-- 🔗 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL_HERE) (Yahan apna LinkedIn profile link daalain)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/shahzad-umar-mernstack/) (Yahan apna LinkedIn profile link daalain)
 - 💬 Feel free to reach out if you want to collaborate on a project or just want to chat!
 
 ---
