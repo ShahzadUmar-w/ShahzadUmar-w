@@ -51,10 +51,7 @@ Here are some of the technologies and tools I work with:
 </p>
 
 #### Office 365 & Microsoft Stack:
-<p align="left">
-  <a href="https://developer.microsoft.com/en-us/office/docs/office-js/reference/office" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/2026px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="Office JS" width="35" height="35"/></a> 
-  <a href="https://developer.microsoft.com/en-us/graph" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-graph.png" alt="Microsoft Graph API" width="40" height="40"/></a> 
-</p>
+
 
 #### Cloud, DevOps & Tools:
 <p align="left">
