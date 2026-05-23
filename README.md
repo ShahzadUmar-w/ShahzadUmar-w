@@ -35,8 +35,6 @@ I build production-grade web applications and Microsoft 365 integrations. After 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShahzadUmar-w&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadUmar-w&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
   <br />
   <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzadUmar-w&theme=gruvbox&hide_border=true" />
 </div>
